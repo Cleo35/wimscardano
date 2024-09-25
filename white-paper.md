@@ -1,4 +1,5 @@
 # WIMS-Cardano White Paper Draft...being upgraded to Cardano Ecosystem
+
 ![image](https://github.com/user-attachments/assets/97f4827e-9c76-4d25-ab65-86cdb608d4c3)
 
 ## Women In Move Solutions (Pty) Ltd (WIMS)
