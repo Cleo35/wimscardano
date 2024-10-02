@@ -1,5 +1,5 @@
 # WIMS-Cardano White Paper Draft...being upgraded to Cardano Ecosystem
-![WIMS logo 25-09-24](https://github.com/user-attachments/assets/27eb0e9a-358f-4cef-a0d3-76420fc7b325)
+![image](https://github.com/user-attachments/assets/97f4827e-9c76-4d25-ab65-86cdb608d4c3)
 
 ## Women In Move Solutions (Pty) Ltd (WIMS)
 **Date:** 17 January 2020  
@@ -358,16 +358,15 @@ Figure11:https://www.google.co.za/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=
 ### Team Members
 
 1. **Technical and Development Team**
-   - Head Technical: Bernard Sibanda https://www.linkedin.com/in/bernard-sibanda-954563243
-   - Stakepool: Billie https://www.linkedin.com/in/billie-matemba
-   - Developer Co_Ordinator: Ridotshila Mambeda https://www.linkedin.com/in/ridotshila-mambeda-205798211
+   - Bernard Sibanda (Head Technical)
+   - Bongiwe Sibanda (BSC Student)
+   - Ottilia Sibanda (BSC)
 
 2. **Management & Administration**
-   - CEO: Celiwe Ngwenya https://www.linkedin.com/in/celiwe-ngwenya
-   - CTO: Bernard Sibanda https://www.linkedin.com/in/bernard-sibanda-954563243
-   - CFO: John Hini https://www.linkedin.com/in/john-hini-374450103
-   - Operations Officer: Prefina Kayembe https://www.linkedin.com/in/prefina-kayembe-980304329
-   - Legal: Lavone Divine/Moitleki https://www.linkedin.com/in/moitlheki-tsiane-28b839329
+   - Landiwe Khumalo (CEO)
+   - Vicky Mantombi (Operations Manager)
+   - Thandazile Mkhwanazi (Administrator)
+   - Bernard Sibanda (CTO)
 
 3. **Advisors, Incubators, Mentors, Partner Companies**
    - Satoshi, Tobb Technologies
